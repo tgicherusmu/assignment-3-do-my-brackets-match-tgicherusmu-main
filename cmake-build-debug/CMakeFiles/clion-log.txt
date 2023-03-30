@@ -1,0 +1,16 @@
+/private/var/folders/h8/jmq824px1z56_qbyncvd26_80000gn/T/AppTranslocation/1BA49A9C-EF69-4B04-8FDC-2F6E2FC70042/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /Users/trevorgicheru/Downloads/assignment-3-do-my-brackets-match-tgicherusmu-main -B /Users/trevorgicheru/Downloads/assignment-3-do-my-brackets-match-tgicherusmu-main/cmake-build-debug
+-- The C compiler identification is AppleClang 13.1.6.13160021
+-- The CXX compiler identification is AppleClang 13.1.6.13160021
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/trevorgicheru/Downloads/assignment-3-do-my-brackets-match-tgicherusmu-main/cmake-build-debug
