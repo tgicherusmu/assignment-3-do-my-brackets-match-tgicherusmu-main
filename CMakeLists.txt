@@ -18,6 +18,7 @@ set(CMAKE_VERBOSE_MAKEFILE OFF)
 # testing with the single_include versions of Catch2 V2 (in directory catch2)
 include(CTest)
 add_executable(test_list test_DSList.cpp DSList.h)
+add_executable(test_stack test_DSStack.cpp DSStack_Array.h DSStack_List.h)
 
 # add_executable(tests_list test_DSList.cpp)
 # add_test(NAME TestList COMMAND tests_list)

@@ -1,5 +1,6 @@
 #ifndef DSLIST_H
 #define DSLIST_H
+#include <iostream>
 
 template <typename Object>
 class DSList{

@@ -28,6 +28,6 @@ class DSStack_List {
     void push(int element) { data.push_front(element); } //todo: add the element to the front of the list
     T pop() { return data.pop_front(); } //todo: remove and return the first element of the list
     T top() { return data.front(); } //todo: return the first element of the list
-    bool isEmpty() { return data.isEmpty(); } //todo: check if the list is empty and return true if it is
+    bool isEmpty() { return data.empty(); } //todo: check if the list is empty and return true if it is
 };
 #endif
